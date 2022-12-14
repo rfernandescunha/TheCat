@@ -21,3 +21,6 @@ Existe dois arquivos na pasta raiz do projeto
 ### Executando o projeto de teste de unidade
 1. Após abrir o projeto no visual studio.
 2. Va na pasta test e execute os testes unitário e integrados
+
+### Executando os coleção de teste no PostMan
+1. Dentro da pasta raiz utilizar o arquivo: TheCat.postman_collection
