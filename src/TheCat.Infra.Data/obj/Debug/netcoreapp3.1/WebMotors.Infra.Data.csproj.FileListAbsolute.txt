@@ -1,0 +1,13 @@
+D:\WebMotors\WebMotors.Infra.Data\bin\Debug\netcoreapp3.1\WebMotors.Infra.Data.deps.json
+D:\WebMotors\WebMotors.Infra.Data\bin\Debug\netcoreapp3.1\WebMotors.Infra.Data.dll
+D:\WebMotors\WebMotors.Infra.Data\bin\Debug\netcoreapp3.1\WebMotors.Infra.Data.pdb
+D:\WebMotors\WebMotors.Infra.Data\bin\Debug\netcoreapp3.1\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Infra.Data\bin\Debug\netcoreapp3.1\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.csproj.AssemblyReference.cache
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.AssemblyInfoInputs.cache
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.AssemblyInfo.cs
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.csproj.CoreCompileInputs.cache
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.csproj.CopyComplete
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.dll
+D:\WebMotors\WebMotors.Infra.Data\obj\Debug\netcoreapp3.1\WebMotors.Infra.Data.pdb

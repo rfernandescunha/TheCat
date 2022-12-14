@@ -1,0 +1,10 @@
+D:\WebMotors\WebMotors.Domain\bin\Debug\netcoreapp3.1\WebMotors.Domain.deps.json
+D:\WebMotors\WebMotors.Domain\bin\Debug\netcoreapp3.1\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\bin\Debug\netcoreapp3.1\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.AssemblyInfoInputs.cache
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.AssemblyInfo.cs
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.csproj.CoreCompileInputs.cache
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Domain\obj\Debug\netcoreapp3.1\WebMotors.Domain.csproj.AssemblyReference.cache

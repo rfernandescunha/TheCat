@@ -1,0 +1,17 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Infra.Data.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Infra.Data.runtimeconfig.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Infra.Data.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Infra.Data.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\bin\Debug\net6.0\TheCat.Domain.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\refint\TheCat.Infra.Data.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\TheCat.Infra.Data.genruntimeconfig.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.Data\obj\Debug\net6.0\ref\TheCat.Infra.Data.dll

@@ -1,0 +1,15 @@
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\WebMotors.Application.deps.json
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\WebMotors.Application.dll
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\ref\WebMotors.Application.dll
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\WebMotors.Application.pdb
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Application\bin\Debug\net5.0\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.csproj.AssemblyReference.cache
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.AssemblyInfoInputs.cache
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.AssemblyInfo.cs
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.csproj.CoreCompileInputs.cache
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.csproj.CopyComplete
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.dll
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\ref\WebMotors.Application.dll
+D:\WebMotors\WebMotors.Application\obj\Debug\net5.0\WebMotors.Application.pdb

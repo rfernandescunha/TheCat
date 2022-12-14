@@ -1,0 +1,7 @@
+{
+  "TheCat.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Application",
+  "TheCat.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain",
+  "TheCat.EntryPoint.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.EntryPoint.Api",
+  "TheCat.Infra.CrossCutting.Ioc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.CrossCutting.Ioc",
+  "TheCat.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.Data"
+}

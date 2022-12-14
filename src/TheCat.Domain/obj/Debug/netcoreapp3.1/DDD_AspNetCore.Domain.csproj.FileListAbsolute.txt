@@ -1,0 +1,10 @@
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\bin\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.deps.json
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\bin\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.dll
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\bin\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.pdb
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.AssemblyInfoInputs.cache
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.AssemblyInfo.cs
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.dll
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.pdb
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.csproj.AssemblyReference.cache
+D:\Cursos\DDD_AspNetCore\DDD_AspNetCore.Domain\obj\Debug\netcoreapp3.1\DDD_AspNetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig

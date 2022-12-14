@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Api\\TheCat.EntryPoint..Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Api\\TheCat.EntryPoint..Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Api\\TheCat.EntryPoint..Api.csproj",
+        "projectName": "TheCat.EntryPoint..Api",
+        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Api\\TheCat.EntryPoint..Api.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj"
+              },
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj",
+        "projectName": "TheCat.Application",
+        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj",
+        "projectName": "TheCat.Domain",
+        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj",
+        "projectName": "TheCat.Infra.CrossCutting.Ioc",
+        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.CrossCutting.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Application\\TheCat.Application.csproj"
+              },
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\TheCat.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\TheCat.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\TheCat.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\TheCat.Infra.Data.csproj",
+        "projectName": "TheCat.Infra.Data",
+        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\TheCat.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\WebMotors\\WebMotors.Domain\\TheCat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

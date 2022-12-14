@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SYXuCoPDrjZt8aOLibi+vaDO8IXCL7JiKpCeJ4VIwfk=",
+  "Source": "TheCat.EntryPoint.Api",
+  "BasePath": "_content/TheCat.EntryPoint.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

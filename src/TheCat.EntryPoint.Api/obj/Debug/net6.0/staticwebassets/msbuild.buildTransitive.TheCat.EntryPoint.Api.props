@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TheCat.EntryPoint.Api.props" />
+</Project>

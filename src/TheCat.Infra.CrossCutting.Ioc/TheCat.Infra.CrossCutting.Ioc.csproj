@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheCat.Application\TheCat.Application.csproj" />
+    <ProjectReference Include="..\TheCat.Domain\TheCat.Domain.csproj" />
+    <ProjectReference Include="..\TheCat.Infra.Data\TheCat.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

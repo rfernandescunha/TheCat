@@ -1,0 +1,12 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\refint\TheCat.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\ref\TheCat.Domain.dll

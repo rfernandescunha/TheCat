@@ -1,0 +1,12 @@
+D:\WebMotors\WebMotors.Domain\bin\Debug\net5.0\WebMotors.Domain.deps.json
+D:\WebMotors\WebMotors.Domain\bin\Debug\net5.0\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\bin\Debug\net5.0\ref\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\bin\Debug\net5.0\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.AssemblyInfoInputs.cache
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.AssemblyInfo.cs
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.csproj.CoreCompileInputs.cache
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\ref\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Domain\obj\Debug\net5.0\WebMotors.Domain.csproj.AssemblyReference.cache

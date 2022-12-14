@@ -1,0 +1,17 @@
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.deps.json
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.dll
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.pdb
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Application.dll
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Domain.dll
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Infra.Data.dll
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Application.pdb
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Infra.Data.pdb
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp3.1\WebMotors.Domain.pdb
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.csproj.AssemblyReference.cache
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.csproj.CopyComplete
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.dll
+D:\WebMotors\WebMotors.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp3.1\WebMotors.Infra.CrossCutting.Ioc.pdb

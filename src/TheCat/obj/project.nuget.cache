@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNX0vRWu8qKuDZVbc+xz0aAZWcupJpsBBOTrUk+d3M1yIkEQrVR+OBnNdgug5Gtomta/kzajlEqwjVWH6f20Rw==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\DDD_AspNetCore\\DDD_AspNetCore\\DDD_AspNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

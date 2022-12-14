@@ -1,0 +1,15 @@
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\TheCat.Application.deps.json
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\TheCat.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\ref\TheCat.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\TheCat.Application.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\TheCat.Domain.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\bin\Debug\net5.0\TheCat.Domain.pdb
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.AssemblyInfoInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.AssemblyInfo.cs
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\ref\TheCat.Application.dll
+C:\Users\rafa_\OneDrive\Área de Trabalho\WebMotors\src\TheCat.Application\obj\Debug\net5.0\TheCat.Application.pdb
