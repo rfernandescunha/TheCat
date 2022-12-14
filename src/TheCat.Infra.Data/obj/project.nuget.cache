@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ArOPhrZAGCsEosoVAX+HZqlgIAmubCZnChMwOuP4xONEloxjKiO+4WcdWjb11qjmhglyxhVrXJBVNmUdryVZQ==",
+  "dgSpecHash": "RHXML40cFKnmJ02mZWeBlMFTe/ZvHIHvsRyFVuFNgulJowBrwfiCxRMc3fvPxiOIlbHiV+CL9L3hxDsqQmk7Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
+  "projectFilePath": "D:\\GitHub\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafa_\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",

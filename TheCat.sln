@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Pipeline", "0-Pipeline", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docker", "Docker", "{A5009F5D-03B7-4939-B097-1BC58FECF7EA}"
 	ProjectSection(SolutionItems) = preProject
-		docker-compose.yaml = docker-compose.yaml
+		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheCat.UnitTest", "test\TheCat.UnitTest\TheCat.UnitTest.csproj", "{1A046B27-1AC0-45B1-A9AE-E5CC810A39A3}"
@@ -45,6 +45,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PostMan", "PostMan", "{5EE73133-439B-4949-9653-09C48D9DF305}"
 	ProjectSection(SolutionItems) = preProject
 		TheCat.postman_collection.json = TheCat.postman_collection.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prom", "prom", "{1CC39AD9-5502-4703-B413-E63909D20617}"
+	ProjectSection(SolutionItems) = preProject
+		prometheus.yml = prometheus.yml
 	EndProjectSection
 EndProject
 Global
@@ -101,6 +106,7 @@ Global
 		{C9D8238B-7FE0-4C6C-92F9-E65149149D3A} = {270E07EB-A7D5-4AC4-A9A8-D3D70427731F}
 		{7A654214-2FC3-490F-9267-B4B2BB9218FE} = {89B7C80E-1397-47BC-8BC9-1B1D8161542C}
 		{5EE73133-439B-4949-9653-09C48D9DF305} = {89B7C80E-1397-47BC-8BC9-1B1D8161542C}
+		{1CC39AD9-5502-4703-B413-E63909D20617} = {A5009F5D-03B7-4939-B097-1BC58FECF7EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3FAB7B5-23D5-49CE-93D9-D7AEBF14D106}

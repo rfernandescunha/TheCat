@@ -4167,11 +4167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
+      "projectUniqueName": "D:\\GitHub\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
       "projectName": "TheCat.Infra.Data",
-      "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
+      "projectPath": "D:\\GitHub\\TheCat\\src\\TheCat.Infra.Data\\TheCat.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.Data\\obj\\",
+      "outputPath": "D:\\GitHub\\TheCat\\src\\TheCat.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4188,8 +4188,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {
-              "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj"
+            "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {
+              "projectPath": "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj"
             }
           }
         }
@@ -4245,7 +4245,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

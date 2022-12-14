@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDajYjB3co/5YguVda9rwnR67TJZEpM43LHX/i9Buj6/H5zRm3/otDf+emp2Nxbpy+8ZqRxcSVS0tmklBuGBzQ==",
+  "dgSpecHash": "FJqCQNJlIqMHGYJLe5CIyWH6diB3/s0GbqKl2hsuZrbnFtlxReibGR6V2RGK6gxxCuGrjb1JOf/FQCIUyh/kDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Application\\TheCat.Application.csproj",
+  "projectFilePath": "D:\\GitHub\\TheCat\\src\\TheCat.Application\\TheCat.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafa_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",

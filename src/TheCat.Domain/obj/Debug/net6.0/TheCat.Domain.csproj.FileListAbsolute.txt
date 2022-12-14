@@ -10,3 +10,15 @@ C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\refint\TheCat.Domain.dll
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.pdb
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Domain\obj\Debug\net6.0\ref\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.deps.json
+D:\GitHub\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Domain\bin\Debug\net6.0\TheCat.Domain.pdb
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.csproj.AssemblyReference.cache
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.AssemblyInfoInputs.cache
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.AssemblyInfo.cs
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\refint\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\TheCat.Domain.pdb
+D:\GitHub\TheCat\src\TheCat.Domain\obj\Debug\net6.0\ref\TheCat.Domain.dll

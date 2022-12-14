@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {}
+    "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {
+    "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj",
+        "projectUniqueName": "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj",
         "projectName": "TheCat.Domain",
-        "projectPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj",
+        "projectPath": "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\TheCat.Domain.csproj",
         "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Domain\\obj\\",
+        "outputPath": "D:\\GitHub\\TheCat\\src\\TheCat.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 using Refit;
@@ -11,6 +12,7 @@ using System.Text.Json.Serialization;
 using TheCat.Application.Clients;
 using TheCat.Application.Configs;
 using TheCat.EntryPoint.Api.Configs;
+using Prometheus;
 
 namespace TheCat.EntryPoint.Api
 {
@@ -69,6 +71,7 @@ namespace TheCat.EntryPoint.Api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "TheCat.Api", Version = "v1" });
             });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -84,7 +87,8 @@ namespace TheCat.EntryPoint.Api
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseHttpMetrics();
+            app.UseMetricServer();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

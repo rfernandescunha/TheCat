@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "joZ8IDvq/SboeZNrmH+KynzvNjRzgcd0TV+6zwqa5jv1a7NsokMlRl8VfE98URFGJ67M0P6jUiN04u6kb3L7rA==",
+  "dgSpecHash": "kEckUB3K05dWpYUsw22b1AAv0EeIvkEfR8z3DlOsJ4xMnkUFGQTEUe4qMz+CVGN6O1tJ7vFW6Dkf3yXZ/N9yPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafa_\\OneDrive\\Área de Trabalho\\TheCat\\src\\TheCat.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj",
+  "projectFilePath": "D:\\GitHub\\TheCat\\src\\TheCat.Infra.CrossCutting.Ioc\\TheCat.Infra.CrossCutting.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafa_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",

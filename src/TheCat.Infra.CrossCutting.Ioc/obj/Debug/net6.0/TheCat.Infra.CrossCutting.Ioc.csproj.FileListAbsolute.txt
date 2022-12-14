@@ -17,3 +17,22 @@ C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.CrossCutting.I
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\refint\TheCat.Infra.CrossCutting.Ioc.dll
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.pdb
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\ref\TheCat.Infra.CrossCutting.Ioc.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.deps.json
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.pdb
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Application.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Infra.Data.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Application.pdb
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Domain.pdb
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\bin\Debug\net6.0\TheCat.Infra.Data.pdb
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.csproj.AssemblyReference.cache
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.csproj.CopyComplete
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\refint\TheCat.Infra.CrossCutting.Ioc.dll
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\TheCat.Infra.CrossCutting.Ioc.pdb
+D:\GitHub\TheCat\src\TheCat.Infra.CrossCutting.Ioc\obj\Debug\net6.0\ref\TheCat.Infra.CrossCutting.Ioc.dll

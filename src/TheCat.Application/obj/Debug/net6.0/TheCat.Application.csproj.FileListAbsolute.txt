@@ -13,3 +13,18 @@ C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Application\obj\Debu
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Application\obj\Debug\net6.0\refint\TheCat.Application.dll
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.pdb
 C:\Users\rafa_\OneDrive\Área de Trabalho\TheCat\src\TheCat.Application\obj\Debug\net6.0\ref\TheCat.Application.dll
+D:\GitHub\TheCat\src\TheCat.Application\bin\Debug\net6.0\TheCat.Application.deps.json
+D:\GitHub\TheCat\src\TheCat.Application\bin\Debug\net6.0\TheCat.Application.dll
+D:\GitHub\TheCat\src\TheCat.Application\bin\Debug\net6.0\TheCat.Application.pdb
+D:\GitHub\TheCat\src\TheCat.Application\bin\Debug\net6.0\TheCat.Domain.dll
+D:\GitHub\TheCat\src\TheCat.Application\bin\Debug\net6.0\TheCat.Domain.pdb
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.csproj.AssemblyReference.cache
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.AssemblyInfoInputs.cache
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.AssemblyInfo.cs
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.csproj.CopyComplete
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.dll
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\refint\TheCat.Application.dll
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\TheCat.Application.pdb
+D:\GitHub\TheCat\src\TheCat.Application\obj\Debug\net6.0\ref\TheCat.Application.dll
