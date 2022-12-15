@@ -1,0 +1,1 @@
+D:\GitHub\TheCat\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

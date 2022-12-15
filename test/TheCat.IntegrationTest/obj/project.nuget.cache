@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ka3dgj9t8gKcWdJtWtq7NxRCFMgKmddXmhx/p8AJOGKB2NHdSo41s4fQ7aa6/qKrMBk+H1YyYyn1cKtJdS6gaA==",
+  "dgSpecHash": "i55mtUCORy4CNTraWIG28At9bD12QyVMpp0qajm0Vuqlt+DX5FacZvA3++jT17Y2W/ATupCwdjLsY3cweNP3aA==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\TheCat\\test\\TheCat.IntegrationTest\\TheCat.IntegrationTest.csproj",
   "expectedPackageFiles": [
@@ -117,6 +117,7 @@
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\rafa_\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
