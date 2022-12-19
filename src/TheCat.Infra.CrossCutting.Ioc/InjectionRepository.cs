@@ -19,8 +19,7 @@ namespace TheCat.Infra.CrossCutting.Ioc
 
 
             //Pega a Conexao do arquivo lauch.json
-                serviceCollection.AddDbContext<TheCatContext>(
-                    options => options.UseSqlServer(Environment.GetEnvironmentVariable("ConnectionString")));
+            serviceCollection.AddDbContext<TheCatContext>(options => options.UseSqlServer(Environment.GetEnvironmentVariable("ConnectionString")));
 
             
         }
